@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USB OTG Helper</string>
+    <string name="MOUNT">MOUNT</string>
+    <string name="UNMOUNT">UNMOUNT</string>
+    <string name="Mount">Mount</string>
+    <string name="Unmount">Unmount</string>
+    <string name="About">About</string>
+    <string name="Help">Help</string>
+    <string name="Settings">Settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Menu">Menu</string>
+    <string name="Back">Back</string>
+    <string name="See">See</string>
+    <string name="Drive">"Drive "</string>
+    <string name="version">Version</string>
+    <string name="main_section">Main Section</string>
+    <string name="tips">"Tips "</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="setup_help">Want this on stock kernel? See http://tinyurl.com/usb-otg-helper</string>
+    <string name="title_activity_prefs">Prefs</string>
+    <string name="codepage">International characters</string>
+    <string name="summary_utf8_preference">Enable UTF-8 as default</string>
+    <string name="menu_debug">Debug Info</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="donate">Donate</string>
+    <string name="get_donate_version">Get donate version</string>
+    <string name="cat_app_options">Application Options</string>
+    <string name="cat_advance_options">Advance options</string>
+    <string name="opt_summary_automode">Try to automatically open file explorer at mounted folder</string>
+    <string name="usb_connected_initializing">USB device attached! Initializing..</string>
+    <string name="tip_stock_kernel">Want this on stock kernel?</string>
+    <string name="does_not_work">This does not work on your device?</string>
+    <string name="send_debugging_data">Send debugging data</string>
+    <string name="no_root_title">Root access unavailable</string>
+    <string name="no_root_message">"su binary not found!
+This app will not work
+
+Press %1$s button to exit.."</string>
+    <string name="file_explorer">File Explorer</string>
+    <string name="autostart_not_started">Get DONATE key for auto-starting File Manager at mounted folder location.</string>
+    <string name="busybox_in_app">Busybox: in-app busybox</string>
+    <string name="busybox_not_found">"BUSYBOX NOT FOUND!
+This app may not work."</string>
+    <string name="click_to_unmount_drives">Click here to unmount drives</string>
+    <string name="consider_sending_log">"Consider enabling debugging setting
+and sending a log to dev!"</string>
+    <string name="could_not_unmount">Could not unmount! Please try again</string>
+    <string name="debug_data_saved_in">Debug data saved in %1$s</string>
+    <string name="debugging_off">Debugging mode OFF!</string>
+    <string name="debugging_on">Debugging mode ON!</string>
+    <string name="donate_version_thanks">DONATE VERSION - THANKS :)</string>
+    <string name="drives_mounted">%1$d drive(s) mounted</string>
+    <string name="drives_unmounted">%1$d drives unmounted!</string>
+    <string name="exit">Exit</string>
+    <string name="initializing">Initializing..</string>
+    <string name="install">Install</string>
+    <string name="live">Live</string>
+    <string name="mounted_successfully_on">MOUNTED SUCCESSFULLY AT:</string>
+    <string name="media_scan_completed">"Media scan completed!
+"</string>
+    <string name="mount_dir_could_not_be_created">E: Mount directory could not be created..</string>
+    <string name="mount_no_drives_found">Mount: No Drives found!</string>
+    <string name="mount_started_at">"Mount Started at: "</string>
+    <string name="mountpoint_of_drive_not_deleted">Mountpoint of drive %1$d not deleted</string>
+    <string name="no_app_folder_intent">No application that can handle Folder open intent found. OpenIntents File Manager is recommended. Install?</string>
+    <string name="no_drives_mounted">No drives mounted!</string>
+    <string name="no_drives_unmount">No Drives found to unmount!</string>
+    <string name="no_drives_unmounted">No drives unmounted!</string>
+    <string name="not_starting_media_scan">Active media scanning not started [Donate only]</string>
+    <string name="ntfs_3g_not_available">ntfs-3g not available! trying ntfs..</string>
+    <string name="ntfs_read_supported">NTFS read support available</string>
+    <string name="ntfs_read_write_supported">NTFS read-write supported!</string>
+    <string name="ntfs_unsupported">No NTFS support</string>
+    <string name="ntfs_write_support_failed">NTFS write support FAILED!</string>
+    <string name="please_wait_seconds">Please wait %1$d seconds..</string>
+    <string name="q_storage_not_supported">OTG Mass Storage not supported?</string>
+    <string name="requesting_root_please_wait">"Requesting root..
+Please wait!"</string>
+    <string name="root_access_ok">Root access OK!</string>
+    <string name="select_email_program">Select email program</string>
+    <string name="select_file_browser">Select Explorer</string>
+    <string name="starting_media_scan">Starting media scan..</string>
+    <string name="storage_module_live">Storage module Live!!</string>
+    <string name="storage_module_not_live">Storage modules not live?</string>
+    <string name="this_app_will_not_work">E: THIS APP WILL NOT WORK!</string>
+    <string name="unmounted_successfully">" UNMOUNTED SUCCESSFULLY!"</string>
+    <string name="usb_otg_drives_mounted">USB OTG drives mounted</string>
+    <string name="utf_8_not_available">UTF-8 not available.</string>
+    <string name="donate_only">Donate version only</string>
+    <string name="tips_html">* Root is required for this app to work&lt;br /> * I cannot reply to market comments.&lt;br /> * You can send debugging data and feedback from Menu.&lt;br /> * Some larger HDD are not supported because of high power requirement.&lt;br /></string>
+    <string name="debugging_enabled">Debugging log enabled</string>
+    <string name="debugging_disabled">Debugging log disabled</string>
+    <string name="debugging_mode">Debugging mode</string>
+    <string name="in_app_busybox">Apps own copy of busybox used</string>
+    <string name="pref_system_busybox">System busybox preferred</string>
+    <string name="pref_auto_file_manager">Auto-open file explorer</string>
+    <string name="pref_active_scan">Active media scan</string>
+    <string name="auto_mount">Automatic mount</string>
+    <string name="auto_mount_summary">Try to automatically mount drive(s) at boot and on USB connection</string>
+    <string name="remember">Remember</string>
+    <string name="pref_clear_selected_filemanager">Clear remembered file manager</string>
+    <string name="pref_clear_remembered_fm_summary">Clear selection %1$s (list will be shown again)</string>
+    <string name="waiting_for_drives">Waiting for drives..</string>
+    <string name="pref_exit_umount">Exit app after unmount</string>
+    <string name="experimental">Experimental</string>
+    <string name="experimental_summary">WARNING: These features are experimental. You agree that by enabling them, the developer will not be liable for any data loss or other untoward effects that may occur!</string>
+    <string name="usage_faq_read">Please read FAQ for usage and warnings!</string>
+    <string name="warning">Warning</string>
+    <string name="exfat_warning">"By clicking yes you confirm that:
+ 1. You have read the FAQ on exFat
+ 2. You are aware of the risk of data corruption.
+ 3. The developer is not liable for any loss of data."</string>
+    <string name="no_exfat">exFAT not available!</string>
+    <string name="supported">supported</string>
+    <string name="not_supported">not supported</string>
+</resources>

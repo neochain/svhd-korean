@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">USB OTG Helper</string>
-    <string name="MOUNT">MOUNT</string>
-    <string name="UNMOUNT">UNMOUNT</string>
-    <string name="Mount">Mount</string>
-    <string name="Unmount">Unmount</string>
-    <string name="About">About</string>
+    <string name="app_name">USB OTG 도우미</string>
+    <string name="MOUNT">마운트</string>
+    <string name="UNMOUNT">언마운트</string>
+    <string name="Mount">마운트</string>
+    <string name="Unmount">언마운트</string>
+    <string name="About">정보</string>
     <string name="Help">Help</string>
-    <string name="Settings">Settings</string>
-    <string name="Cancel">Cancel</string>
+    <string name="Settings">설정</string>
+    <string name="Cancel">취소</string>
     <string name="Menu">Menu</string>
     <string name="Back">Back</string>
     <string name="See">See</string>

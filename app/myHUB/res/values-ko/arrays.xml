@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="select_folder">
-        <item>Open</item>
-        <item>Cut</item>
-        <item>Copy</item>
-        <item>Delete</item>
+        <item>열기</item>
+        <item>이동</item>
+        <item>복사</item>
+        <item>붙여넣기</item>
         <item>Properties</item>
     </string-array>
     <string-array name="select_file">
-        <item>Cut</item>
-        <item>Copy</item>
-        <item>Delete</item>
+        <item>이동</item>
+        <item>복사</item>
+        <item>삭제</item>
         <item>Properties</item>
     </string-array>
 </resources>

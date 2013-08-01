@@ -19,10 +19,10 @@
     <string name="dl_finish">다운로드 완료</string>
     <string name="md_error">MD5 오류</string>
     <string name="exit">나가기</string>
-    <string name="rom_upd">System update</string>
+    <string name="rom_upd">시스템 업데이트</string>
     <string name="rom_upd_text">This update includes the following:</string>
     <string name="upd_2">This update contains important enhancements and bug fixes, including:</string>
-    <string name="update">update</string>
+    <string name="update">업데이트</string>
     <string name="from">from</string>
     <string name="to">to</string>
     <string name="app_upd">update</string>
@@ -35,7 +35,7 @@
     <string name="ds">The app especially built for DarkSense ROM</string>
     <string name="srm">The app built for all users to download and install ROMs</string>
     <string name="donation">Donation</string>
-    <string name="play">Play Market</string>
+    <string name="play">플레이스토어</string>
     <string name="play_s">Buy myHUB Donated version on Play Market</string>
     <string name="paypal">Donate to Developer through PayPal</string>
     <string name="feedback">Feedback</string>
@@ -59,7 +59,7 @@
     <string name="app_sett">앱 설정</string>
     <string name="i_check">Internet Checking</string>
     <string name="i_check_s">Disable or Enable checking of Internet on Start</string>
-    <string name="r_upd">ROM Update</string>
+    <string name="r_upd">ROM 업데이트</string>
     <string name="r_upd_s">Checks for latest ROM versions on Start</string>
     <string name="about_rom">About ROM</string>
     <string name="rom_name">ROM 이름</string>
@@ -68,10 +68,10 @@
     <string name="rom_updt">ROM 업데이트</string>
     <string name="rom_updt_s">최신 ROM 버전 확인</string>
     <string name="about">About</string>
-    <string name="dls">Download</string>
+    <string name="dls">다운로드</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
-    <string name="mount_sd">Mount SD Card</string>
+    <string name="mount_sd">SD카드 마운트</string>
     <string name="in_del">Do you want to install now or later?</string>
     <string name="ok">Ok</string>
     <string name="i_upd">Would you like to install the following System update?</string>

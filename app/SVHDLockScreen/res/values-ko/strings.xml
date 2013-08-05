@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="phone_restart">설정을 적용하기 위해 빠른 시작을 하시겠습니까?</string>
+    <string name="phone">휴대폰</string>
+    <string name="restart_title">다시 시작</string>
+    <string name="app_name">잠금화면 설정</string>
+	<string name="phone_restart">설정을 적용하기 위해 빠른 시작을 하시겠습니까?</string>
     <string name="need_phone_restart">빠른 시작을 해주세요!</string>
     <string name="lockscreen">잠금화면</string>
     <string name="other">기타</string>
@@ -13,6 +16,10 @@
     <string name="volume_wake_summary">볼륨버튼을 눌러 화면을 킵니다</string>
     <string name="unlock_buttons">버튼을 눌러 화면 키기</string>
     <string name="unlock_buttons_summary">잠금화면을 풀 버튼를 고릅니다</string>
+    <string name="lockscreen_hide_datetime">날짜/시간 숨기기</string>
+    <string name="lockscreen_hide_datetime_summary">날짜,시간이나 오전/오후를 숨깁니다</string>
+    <string name="lockscreen_hide_opname">통신사문구 숨기기</string>
+    <string name="lockscreen_hide_opname_summary">잠금화면에서 통신사문구를 숨깁니다</string>
     <string name="clock_options">시계 옵션</string>
     <string name="clock_style">시계 스타일</string>
     <string name="clock_style_summary">시계를 가운데/숨길지 결정합니다</string>
@@ -20,5 +27,6 @@
     <string name="hide_date">날짜 숨기기</string>
     <string name="hide_date_summary">알림 영역에서 날짜를 숨깁니다</string>
     <string name="clock_hide_ampm">오전/오후 숨기기</string>
+    <string name="use_media_summary">화면이 꺼졌을때, 길게 눌러서 할 작업을 정합니다</string>
     <string name="use_media">볼륨키로 음악 제어</string>
 </resources>

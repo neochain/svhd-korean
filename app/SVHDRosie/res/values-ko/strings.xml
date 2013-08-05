@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="rosie">센스</string>
+    <string name="app_name">런처 설정</string>
     <string name="rosie_restart">설정을 적용하기 위해 센스를 다시 시작하겠습니까?</string>
     <string name="rosie_systemui_restart">설정을 적용하기 위해 센스와 상태바를 다시 시작하겠습니까?</string>
     <string name="need_rosie_restart">센스를 다시 시작해주세요!</string>
